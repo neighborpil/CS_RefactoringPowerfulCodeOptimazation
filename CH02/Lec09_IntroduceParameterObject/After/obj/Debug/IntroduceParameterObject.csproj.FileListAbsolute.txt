@@ -1,0 +1,5 @@
+C:\code\mm\refactoring\IntroduceParameterObject\After\bin\Debug\SimplifyCondition.dll
+C:\code\mm\refactoring\IntroduceParameterObject\After\bin\Debug\SimplifyCondition.pdb
+C:\code\mm\refactoring\IntroduceParameterObject\After\obj\Debug\IntroduceParameterObject.csproj.CoreCompileInputs.cache
+C:\code\mm\refactoring\IntroduceParameterObject\After\obj\Debug\SimplifyCondition.dll
+C:\code\mm\refactoring\IntroduceParameterObject\After\obj\Debug\SimplifyCondition.pdb

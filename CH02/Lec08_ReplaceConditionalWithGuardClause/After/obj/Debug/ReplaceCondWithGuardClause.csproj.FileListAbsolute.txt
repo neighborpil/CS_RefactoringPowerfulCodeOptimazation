@@ -1,0 +1,5 @@
+C:\code\mm\refactoring\ReplaceCondWithGuardClause\After\bin\Debug\ReplaceCondWithGuardClause.dll
+C:\code\mm\refactoring\ReplaceCondWithGuardClause\After\bin\Debug\ReplaceCondWithGuardClause.pdb
+C:\code\mm\refactoring\ReplaceCondWithGuardClause\After\obj\Debug\ReplaceCondWithGuardClause.csproj.CoreCompileInputs.cache
+C:\code\mm\refactoring\ReplaceCondWithGuardClause\After\obj\Debug\ReplaceCondWithGuardClause.dll
+C:\code\mm\refactoring\ReplaceCondWithGuardClause\After\obj\Debug\ReplaceCondWithGuardClause.pdb

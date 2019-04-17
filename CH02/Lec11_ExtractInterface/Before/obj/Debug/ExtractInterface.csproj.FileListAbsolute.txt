@@ -1,0 +1,5 @@
+C:\code\mm\refactoring\ExtractInterface\Before\bin\Debug\ExtractInterface.dll
+C:\code\mm\refactoring\ExtractInterface\Before\bin\Debug\ExtractInterface.pdb
+C:\code\mm\refactoring\ExtractInterface\Before\obj\Debug\ExtractInterface.csproj.CoreCompileInputs.cache
+C:\code\mm\refactoring\ExtractInterface\Before\obj\Debug\ExtractInterface.dll
+C:\code\mm\refactoring\ExtractInterface\Before\obj\Debug\ExtractInterface.pdb

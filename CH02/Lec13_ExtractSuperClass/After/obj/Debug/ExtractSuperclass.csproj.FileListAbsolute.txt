@@ -1,0 +1,6 @@
+C:\code\mm\refactoring\ExtractSuperClass\After\bin\Debug\ExtractSuperclass.dll
+C:\code\mm\refactoring\ExtractSuperClass\After\bin\Debug\ExtractSuperclass.pdb
+C:\code\mm\refactoring\ExtractSuperClass\After\obj\Debug\ExtractSuperclass.csprojAssemblyReference.cache
+C:\code\mm\refactoring\ExtractSuperClass\After\obj\Debug\ExtractSuperclass.csproj.CoreCompileInputs.cache
+C:\code\mm\refactoring\ExtractSuperClass\After\obj\Debug\ExtractSuperclass.dll
+C:\code\mm\refactoring\ExtractSuperClass\After\obj\Debug\ExtractSuperclass.pdb

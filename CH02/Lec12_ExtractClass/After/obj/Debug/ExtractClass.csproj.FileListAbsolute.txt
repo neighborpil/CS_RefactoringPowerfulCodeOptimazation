@@ -1,0 +1,5 @@
+C:\code\mm\refactoring\ExtractClass\After\bin\Debug\ExtractClass.dll
+C:\code\mm\refactoring\ExtractClass\After\bin\Debug\ExtractClass.pdb
+C:\code\mm\refactoring\ExtractClass\After\obj\Debug\ExtractClass.csproj.CoreCompileInputs.cache
+C:\code\mm\refactoring\ExtractClass\After\obj\Debug\ExtractClass.dll
+C:\code\mm\refactoring\ExtractClass\After\obj\Debug\ExtractClass.pdb

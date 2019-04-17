@@ -1,0 +1,12 @@
+C:\code\mm\refactoring\ExtractClass\Before\bin\Debug\ExtractClass.dll
+C:\code\mm\refactoring\ExtractClass\Before\bin\Debug\ExtractClass.pdb
+C:\code\mm\refactoring\ExtractClass\Before\obj\Debug\ExtractClass.csprojAssemblyReference.cache
+C:\code\mm\refactoring\ExtractClass\Before\obj\Debug\ExtractClass.csproj.CoreCompileInputs.cache
+C:\code\mm\refactoring\ExtractClass\Before\obj\Debug\ExtractClass.dll
+C:\code\mm\refactoring\ExtractClass\Before\obj\Debug\ExtractClass.pdb
+C:\codes\GitRepository\CS_RefactoringPowerfulCodeOptimazation\CH02\Lec12_ExtractClass\Before2\bin\Debug\ExtractClass.dll
+C:\codes\GitRepository\CS_RefactoringPowerfulCodeOptimazation\CH02\Lec12_ExtractClass\Before2\bin\Debug\ExtractClass.pdb
+C:\codes\GitRepository\CS_RefactoringPowerfulCodeOptimazation\CH02\Lec12_ExtractClass\Before2\obj\Debug\ExtractClass.csprojAssemblyReference.cache
+C:\codes\GitRepository\CS_RefactoringPowerfulCodeOptimazation\CH02\Lec12_ExtractClass\Before2\obj\Debug\ExtractClass.csproj.CoreCompileInputs.cache
+C:\codes\GitRepository\CS_RefactoringPowerfulCodeOptimazation\CH02\Lec12_ExtractClass\Before2\obj\Debug\ExtractClass.dll
+C:\codes\GitRepository\CS_RefactoringPowerfulCodeOptimazation\CH02\Lec12_ExtractClass\Before2\obj\Debug\ExtractClass.pdb

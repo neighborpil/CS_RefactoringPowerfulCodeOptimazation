@@ -1,0 +1,5 @@
+C:\code\mm\refactoring\SplitCombineConditionals\Before\bin\Debug\SplitCombineConditional.dll
+C:\code\mm\refactoring\SplitCombineConditionals\Before\bin\Debug\SplitCombineConditional.pdb
+C:\code\mm\refactoring\SplitCombineConditionals\Before\obj\Debug\SplitCombineConditional.csproj.CoreCompileInputs.cache
+C:\code\mm\refactoring\SplitCombineConditionals\Before\obj\Debug\SplitCombineConditional.dll
+C:\code\mm\refactoring\SplitCombineConditionals\Before\obj\Debug\SplitCombineConditional.pdb
